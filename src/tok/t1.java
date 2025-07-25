@@ -7,10 +7,11 @@ public class t1 {
 
 		String hungry ="yes";
 		if (hungry=="yes") {
-			 System.out.print("eat ");
+			 System.out.print("eat1");
 		}
 		else {
 			System.out.print("work ");
+			System.out.print("hi ");
 		}
 	}
 
