@@ -11,7 +11,7 @@ public class t1 {
 		}
 		else {
 			System.out.print("work ");
-			System.out.print("hi ");
+			System.out.print("hello ");
 		}
 	}
 
